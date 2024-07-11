@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">582189325071</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0FxF4MDAy7ajdES4d7dDiRzwJBmTz53k</string>
+    <string name="google_app_id" translatable="false">1:582189325071:android:7e5719f2d6961f17c0fc7a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0FxF4MDAy7ajdES4d7dDiRzwJBmTz53k</string>
+    <string name="google_storage_bucket" translatable="false">unitrade-7236e.appspot.com</string>
+    <string name="project_id" translatable="false">unitrade-7236e</string>
+</resources>
